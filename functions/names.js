@@ -1,7 +1,7 @@
-function createPerson(firstName, lastName) {
+function createNames(firstName, lastName) {
     return {
         firstName, lastName
     };
 };
 
-module.exports = createPerson;
+module.exports = createNames;
